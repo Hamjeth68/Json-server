@@ -139,12 +139,6 @@
                 "Role": "Tech Lead (Mobile)"
             },
             {
-                "Name": "Alhassan Mosque",
-                "Technologies": "React-native, Redux, Azure Devops, Node.js, MySQL, Digital Ocean",
-                "Description": "Built application for Al-Hassan Mosque to facilitate community engagement and provide prayer time tracking.",
-                "Role": "Project Manager"
-            },
-            {
                 "Name": "Roar-Den",
                 "Technologies": "React, Sass, HTML, CSS, Node.js, MongoDB",
                 "Description": "Focused on automating internal processes at 'Roar Global', managing a diverse set of skilled practices within one platform.",
