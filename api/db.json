@@ -65,13 +65,65 @@
         }
     ],
     "Projects": [
+        {
+            "Name": "EZCash Customer",
+            "Technologies": "React-native, Android, Objective-C, Spring-boot, MySQL, Crashlytics, Firebase, Azure, JSX, CEFT, Just-Pay, Redux, Redux-Sagas",
+            "Description": "Led the development of a mobile wallet hybrid application, integrating 'JUST PAY' for easy cash transfer without needing a bank account.",
+            "Role": "Tech Lead (Mobile)",
+            "img": "https://play-lh.googleusercontent.com/xD39XtPPTP0RsTOFYL6ywaDXvCQ1Tcx5Z5jfMnzNCDHvmMBJH2lBsQfacGakV6ljXI6s=w5120-h2880-rw",
+            "References": [
+                "https://play.google.com/store/apps/details?id=lk.dialog.ewallet&hl=en",
+                "https://apps.apple.com/lk/app/ez-cash/id1019420027"
+            ]
+        },
         
+       
+        {
+            "Name": "Up-flex",
+            "Technologies": "Java, React-native, Swift, Android, Socket.io, Oracle, AWS, React JS",
+            "Description": "Developed a workspace booking application for temporary office spaces, resolving complex data conflict issues with real-time updates.",
+            "Role": "Associate Tech Lead (Mobile)",
+            "img": "https://play-lh.googleusercontent.com/ymRKu0tmOi2LJ6H39LcSJM2Nm_netMLVGa7Lp-rA1qzmMHYSW1CPh3bUhnEScjUP6FM=w5120-h2880-rw",
+
+            "References": [
+
+                "https://itunes.apple.com/us/app/upflex/id1419605698?mt=8&ign-mpt=uo%3D4",
+                "https://play.google.com/store/apps/details?id=com.calcey.upflex"
+            ]
+        },
+
+        {
+            "Name": "Roar-Media",
+            "Technologies": "React-native, Apollo Client, Redux, Firebase, Azure DevOps, Node.js, React, Digital Ocean, MongoDB, Twilio",
+            "Description": "Developed a digital content platform for a media company in Sri Lanka and Bangladesh, based on JavaScript stack with core architecture on React.",
+            "Role": "Tech Lead (Mobile)",
+            "img": "https://play-lh.googleusercontent.com/AB1w9BGBAIMLl3HCIH7Tn55pQnTvFowJo6cAqnxEbR5JAq1ELVDs9YY6geDFZqHiEdM=w5120-h2880-rw",
+
+            "References": [
+                "https://play.google.com/store/apps/details?id=com.roarmedia&hl=en",
+                "https://itunes.apple.com/us/app/roar-media/id1415282424?mt=8"
+            ]
+        },
             {
+                
                 "Name": "Selfcare Customer",
                 "Technologies": "Microapps architecture, React Native, Android, iOS, O2 Middleware, JavaScript, TypeScript, Redux, OKHTTP, IAM, Config Manager, Kubernetes, Spring, GraphQL, Apollo, Webpack, Grafana, Kibana, Firebase, FCM, MIGS, Stripe, VISA, GraphQL Gateway, AWS, CMS, Content Authoring, OpenID Connect, OSS, OAuth 2.0, Blob Builder, Objective C, JAVA, Microservice",
                 "Description": "A front-facing customer application focusing on providing self-care services like KYC, store Payments, billing, personalized offers, and more. It uses microapps architecture for feature-driven design and omnichannel, cross-functional communication.",
                 "Role": "Involved in blueprinting, solution design, architectural decision making, leading the mobile team, building solutions, mentoring, leading demos, releases, technical delivery, client meetings, and supporting DevOps and security compliance."
             },
+            {
+                "Name": "KDDI",
+                "Technologies": "React, Ruby on Rails, JS, TS, AWS, Kafka, CDD, Webpack, Jenkins, Golang, Microservice Architecture, MySQL, Quilt, MongoDB, New Relic, Kibana, Sela, Configuration Manager",
+                "Description": "Managed and delivered the 'POVO2.0' project for a digital telco-based company in Japan, achieving a legacy system replacement and onboarding 4 million users by the end of 2021.",
+                "Role": "Senior Lead Consultant",
+                "img": "https://play-lh.googleusercontent.com/xD39XtPPTP0RsTOFYL6ywaDXvCQ1Tcx5Z5jfMnzNCDHvmMBJH2lBsQfacGakV6ljXI6s=w5120-h2880-rw",
+    
+                "References": [
+                    "https://povo.jp/news/newsrelease/20220308_01/",
+                    "https://povo.jp"
+                ]
+            },
+            
             {
                 "Name": "Rex (Prime Pro)",
                 "Technologies": "Android Java, iOS Swift, React Native, Expo-SDK, Node.js, MongoDB, NestJS, PostgreSQL, JavaScript, TypeScript, Event-driven architecture, Twilio, OneSignal, Twilio Conversations, Okta, Microservice architecture, MVVMC, Flux, Keycloak, Comet Chat, Expo Web, Kotlin, CocoaPod, EAS Builds, GitHub Actions, SonarCloud",
@@ -174,16 +226,7 @@
                 "Description": "Delivered a digital banking platform for 'LOLC', consisting of mobile apps and a web application, tightly coupled with a data model architecture.",
                 "Role": "Project Lead"
             },
-            {
-                "Name": "KDDI",
-                "Technologies": "React, Ruby on Rails, JS, TS, AWS, Kafka, CDD, Webpack, Jenkins, Golang, Microservice Architecture, MySQL, Quilt, MongoDB, New Relic, Kibana, Sela, Configuration Manager",
-                "Description": "Managed and delivered the 'POVO2.0' project for a digital telco-based company in Japan, achieving a legacy system replacement and onboarding 4 million users by the end of 2021.",
-                "Role": "Senior Lead Consultant",
-                "References": [
-                    "https://povo.jp/news/newsrelease/20220308_01/",
-                    "https://povo.jp"
-                ]
-            },
+          
             {
                 "Name": "Circles Life Country Launch",
                 "Technologies": "React, Kotlin, Android, Swift, Bitrise, Java, Jenkins, Sela, Kibana, Firebase, New Relic, JS, TS, Go lang, Ruby, MySQL, Mongoose, MongoDB, Branch, Jetpack, Kafka, Trunkbased Programming, Docker, AWS, MVVM, MVVMC, Adapter Pattern, Server Driven UI, Dagger, Clever Tap",
@@ -191,16 +234,7 @@
                 "Role": "Senior Lead Consultant",
                 "References": []
             },
-            {
-                "Name": "Roar-Media",
-                "Technologies": "React-native, Apollo Client, Redux, Firebase, Azure DevOps, Node.js, React, Digital Ocean, MongoDB, Twilio",
-                "Description": "Developed a digital content platform for a media company in Sri Lanka and Bangladesh, based on JavaScript stack with core architecture on React.",
-                "Role": "Tech Lead (Mobile)",
-                "References": [
-                    "https://play.google.com/store/apps/details?id=com.roarmedia&hl=en",
-                    "https://itunes.apple.com/us/app/roar-media/id1415282424?mt=8"
-                ]
-            },
+         
             {
                 "Name": "Alhassan Mosque",
                 "Technologies": "React-native, Redux, Azure DevOps, Node.js, MySQL, Digital Ocean",
@@ -208,16 +242,7 @@
                 "Role": "Tech Lead (Mobile)",
                 "References": []
             },
-            {
-                "Name": "EZCash Customer",
-                "Technologies": "React-native, Android, Objective-C, Spring-boot, MySQL, Crashlytics, Firebase, Azure, JSX, CEFT, Just-Pay, Redux, Redux-Sagas",
-                "Description": "Led the development of a mobile wallet hybrid application, integrating 'JUST PAY' for easy cash transfer without needing a bank account.",
-                "Role": "Tech Lead (Mobile)",
-                "References": [
-                    "https://play.google.com/store/apps/details?id=lk.dialog.ewallet&hl=en",
-                    "https://apps.apple.com/lk/app/ez-cash/id1019420027"
-                ]
-            },
+        
             {
                 "Name": "My Budget",
                 "Technologies": "Java, MySQL, .Net, Kafka, Angular 6, Protractor, Salesforce events, NGRX, NGRX Entities, NGRX semantics, Angular 6 reactive forms, Aws services",
@@ -225,16 +250,7 @@
                 "Role": "Associate Tech Lead (Mobile)",
                 "References": []
             },
-            {
-                "Name": "Up-flex",
-                "Technologies": "Java, React-native, Swift, Android, Socket.io, Oracle, AWS, React JS",
-                "Description": "Developed a workspace booking application for temporary office spaces, resolving complex data conflict issues with real-time updates.",
-                "Role": "Associate Tech Lead (Mobile)",
-                "References": [
-                    "https://itunes.apple.com/us/app/upflex/id1419605698?mt=8&ign-mpt=uo%3D4",
-                    "https://play.google.com/store/apps/details?id=com.calcey.upflex"
-                ]
-            },
+       
             {
                 "Name": "Shop Flow",
                 "Technologies": "React, Node.js, Stripe, Docker, Google Cloud",
