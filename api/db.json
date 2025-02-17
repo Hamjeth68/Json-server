@@ -1,292 +1,138 @@
 {
     "PersonalDetails": {
-        "Name": "Arafath Misree",
-        "Designation": "Software Architect",
-        "Location": "Colombo, Sri Lanka",
-        "Contact": "+94772219957",
-        "Email": "amisree74@gmail.com",
-        "LinkedIn": "LinkedIn Profile URL",
-        "GitHub": "GitHub Profile URL",
-        "suf": "AM"
+        "Name": "Hamjeth Misree",
+        "Designation": "Senior Software Engineer",
+        "Location": "Dehiwala – Mount Lavinia, Sri Lanka",
+        "Contact": "0771157106",
+        "Email": "hamjeth68@gmail.com",
+        "LinkedIn": "Hamjeth Misree",
+        "GitHub": "Hamjeth68",
+        "Portfolio": "https://hamjeth.vercel.app/"
     },
-    "CareerObjective": "Having obtained 9 years of industry exposure in my software engineering journey I wish to pursue a long-term career in the IT industry and to utilize my academic knowledge and skills towards achieving technological development through creativity and innovation in the fields of Software Engineering and IT Management by turning researches into programs. I am seeking a position in a dynamic environment where new technologies are being developed.",
+    "CareerObjective": "As a seasoned Software Engineer with over four years of industry experience, I am passionate about driving technological innovation and delivering impactful solutions. Leveraging my expertise in Software Engineering and IT Management, I aim to bridge the gap between research and real-world applications, fostering creativity and innovation. My goal is to contribute to a forward-thinking organisation that embraces cutting-edge technologies, promotes continuous learning, and values collaboration. I am seeking a challenging role in a dynamic environment where I can grow professionally while making meaningful contributions to advancing technology and achieving organisational success.",
     "Education": [
         {
-            "Degree": "BSc (Hons) Software Engineering",
-            "Institution": "University of the West of England, Bristol",
-            "Year": "2015 - 2018"
+            "Degree": "BSc (Hons) Computer Science with specialisation in Software Engineering",
+            "Institution": "Kingston University London",
+            "Year": "2021"
         },
         {
-            "Program": "Java SE application development foundation program",
-            "Institution": "JAVA Institute",
-            "Year": "2015 - 2016"
-        },
-        {
-            "School": "North Shore College Colombo",
-            "Qualifications": "Merit in IT and Physics, Simple Pass in Core Mathematics"
-        },
-        {
-            "School": "Carey College Colombo",
-            "Year": "2010",
-            "Qualifications": "GCE O/L with Two A's, One B, Five C's, and one S"
-        },
-        {
-            "Program": "Diploma in English",
-            "Institution": "College of Higher Education (ACHE)",
-            "Year": "2009"
+            "Program": "Higher National Diploma in Software Engineering",
+            "Institution": "ESoft Metro Campus Colombo 04",
+            "Year": "2019"
         }
     ],
-    "TechnicalSkills": [
-        "Native android JAVA",
-        "JavaScript",
-        "Angular Core",
-        "Kotlin",
-        "React - Native (Android & IOS)",
-        "Flutter",
-        "React.js / Expo",
-        "Next.js",
-        "Graph QL",
-        "Continues Integration / Continues Delivery Tools",
-        "E2E Testing",
-        "Agile Practitioner",
-        "Solution Designing with UML",
-        "Security Compliance for Web / Mobile",
-        "CDD Development",
-        "TDD Development",
-        "Microsoft App center",
-        "AWS",
-        "Cloud Native"
-    ],
+    "TechnicalSkills": {
+        "Mobile Development": [
+            "Android (Java/Kotlin)",
+            "React-Native (Android & iOS)",
+            "Flutter",
+            "iOS (Objective-C/Swift)"
+        ],
+        "Frontend Development": [
+            "JavaScript",
+            "Angular",
+            "React.js/Expo",
+            "Next.js"
+        ],
+        "Backend & API Development": [
+            "GraphQL/REST/GRPC/SOAP/WebSocket",
+            "Event-Driven Architecture"
+        ],
+        "DevOps & CI/CD": [
+            "Fastlane",
+            "GitHub Actions",
+            "Microsoft App Center",
+            "AWS",
+            "Docker",
+            "Redis",
+            "Cloud-Native"
+        ],
+        "Microservices & Architecture": [
+            "API Gateway",
+            "Service Discovery",
+            "CQRS",
+            "BFF (Backend for Frontend)",
+            "DB per Service"
+        ],
+        "Testing & Methodologies": [
+            "E2E Testing",
+            "TDD/Agile",
+            "CDD"
+        ]
+    },
     "ProfessionalExperience": [
         {
-            "Company": "Software Consultancy Company (NDA)",
-            "Period": "2021 - Present",
-            "Details": "Involved in various project roles including blue printing high level solution design, architectural decision making, mentoring the team, and more."
+            "Company": "Sanlabz (PVT) Limited",
+            "Position": "Senior Software Engineer",
+            "Period": "September 2023 - Current",
+            "Project": "ClassVeew",
+            "Description": "Led the development of ClassVeew, a SaaS platform for preschools and kindergartens in Qatar, available on both web and mobile. Built with React Native and Redux for mobile, and a comprehensive web platform for school administration.",
+            "Technologies": "React Native, Redux, GCP, Web Technologies"
+        },
+        {
+            "Company": "Ferry Pay",
+            "Position": "Senior Software Engineer",
+            "Period": "February 2023 - September 2023",
+            "Description": "Led development of fintech platform for hospitality and retail industries, focusing on automated payouts and tax compliance. Built full-stack solutions using React-Native, Next.js, TypeScript, and cloud services.",
+            "Technologies": "React-Native, TypeScript, Next.js, Electron.js, GCP, AWS Amplify, GraphQL"
+        },
+        {
+            "Company": "Codelantic (Pvt)",
+            "Position": "Software Engineer",
+            "Period": "September 2021 - April 2023",
+            "Projects": [
+                {
+                    "Name": "SpotonMoney",
+                    "Description": "Mobile banking application for global money transfers",
+                    "Technologies": "React-Native, Android, Objective-C, Spring-Boot, MySQL, AWS"
+                },
+                {
+                    "Name": "Namasthe India",
+                    "Description": "E-commerce application for restaurant management",
+                    "Technologies": "React-Native, Spring-Boot, Docker, Redux"
+                }
+            ]
+        },
+        {
+            "Company": "Adage Digital",
+            "Position": "Software Engineer",
+            "Period": "September 2020 - August 2021",
+            "Project": "Lawma Academy",
+            "Description": "Created digital educational platform with payment gateway integration",
+            "Technologies": "React.js, Node.js, Redux, Firebase, AWS, Digital Ocean"
+        },
+        {
+            "Company": "Victory Information (Pvt) Limited & Genxt Sri Lanka (Pvt) Limited",
+            "Position": "Associate Software Engineer",
+            "Period": "December 2019 - September 2020",
+            "Projects": [
+                {
+                    "Name": "ERP Payroll System",
+                    "Technologies": "ASP.Net, Entity-Framework, ADO.Net, Web Forms, WEB API"
+                },
+                {
+                    "Name": "SriKantha Motors Budget Management",
+                    "Technologies": "Angular 6, Spring Boot, Kafka, .NET, MySQL"
+                }
+            ]
+        },
+        {
+            "Company": "Koombiyo IT",
+            "Position": "Intern Software Engineer",
+            "Period": "January 2019 - December 2019",
+            "Projects": [
+                {
+                    "Name": "KoombiyoDelivery.lk",
+                    "Description": "Logistics platform for package delivery services",
+                    "Technologies": "React.js, Node.js, Redux, Firebase, MongoDB"
+                },
+                {
+                    "Name": "Ayp.lk",
+                    "Description": "E-commerce platform for buy-and-sell services",
+                    "Technologies": "React.js, Node.js, Redux, Firebase, MongoDB"
+                }
+            ]
         }
-    ],
-    "Projects": [
-        {
-            "Name": "EZCash Customer",
-            "Technologies": "React-native, Android, Objective-C, Spring-boot, MySQL, Crashlytics, Firebase, Azure, JSX, CEFT, Just-Pay, Redux, Redux-Sagas",
-            "Description": "Led the development of a mobile wallet hybrid application, integrating 'JUST PAY' for easy cash transfer without needing a bank account.",
-            "Role": "Tech Lead (Mobile)",
-            "img": "https://play-lh.googleusercontent.com/xD39XtPPTP0RsTOFYL6ywaDXvCQ1Tcx5Z5jfMnzNCDHvmMBJH2lBsQfacGakV6ljXI6s=w5120-h2880-rw",
-            "References": [
-                "https://play.google.com/store/apps/details?id=lk.dialog.ewallet&hl=en",
-                "https://apps.apple.com/lk/app/ez-cash/id1019420027"
-            ]
-        },
-        
-       
-        {
-            "Name": "Up-flex",
-            "Technologies": "Java, React-native, Swift, Android, Socket.io, Oracle, AWS, React JS",
-            "Description": "Developed a workspace booking application for temporary office spaces, resolving complex data conflict issues with real-time updates.",
-            "Role": "Associate Tech Lead (Mobile)",
-            "img": "https://play-lh.googleusercontent.com/ymRKu0tmOi2LJ6H39LcSJM2Nm_netMLVGa7Lp-rA1qzmMHYSW1CPh3bUhnEScjUP6FM=w5120-h2880-rw",
-
-            "References": [
-
-                "https://itunes.apple.com/us/app/upflex/id1419605698?mt=8&ign-mpt=uo%3D4",
-                "https://play.google.com/store/apps/details?id=com.calcey.upflex"
-            ]
-        },
-
-        {
-            "Name": "Roar-Media",
-            "Technologies": "React-native, Apollo Client, Redux, Firebase, Azure DevOps, Node.js, React, Digital Ocean, MongoDB, Twilio",
-            "Description": "Developed a digital content platform for a media company in Sri Lanka and Bangladesh, based on JavaScript stack with core architecture on React.",
-            "Role": "Tech Lead (Mobile)",
-            "img": "https://play-lh.googleusercontent.com/AB1w9BGBAIMLl3HCIH7Tn55pQnTvFowJo6cAqnxEbR5JAq1ELVDs9YY6geDFZqHiEdM=w5120-h2880-rw",
-
-            "References": [
-                "https://play.google.com/store/apps/details?id=com.roarmedia&hl=en",
-                "https://itunes.apple.com/us/app/roar-media/id1415282424?mt=8"
-            ]
-        },
-            {
-                
-                "Name": "Selfcare Customer",
-                "Technologies": "Microapps architecture, React Native, Android, iOS, O2 Middleware, JavaScript, TypeScript, Redux, OKHTTP, IAM, Config Manager, Kubernetes, Spring, GraphQL, Apollo, Webpack, Grafana, Kibana, Firebase, FCM, MIGS, Stripe, VISA, GraphQL Gateway, AWS, CMS, Content Authoring, OpenID Connect, OSS, OAuth 2.0, Blob Builder, Objective C, JAVA, Microservice",
-                "Description": "A front-facing customer application focusing on providing self-care services like KYC, store Payments, billing, personalized offers, and more. It uses microapps architecture for feature-driven design and omnichannel, cross-functional communication.",
-                "Role": "Involved in blueprinting, solution design, architectural decision making, leading the mobile team, building solutions, mentoring, leading demos, releases, technical delivery, client meetings, and supporting DevOps and security compliance."
-            },
-            {
-                "Name": "KDDI",
-                "Technologies": "React, Ruby on Rails, JS, TS, AWS, Kafka, CDD, Webpack, Jenkins, Golang, Microservice Architecture, MySQL, Quilt, MongoDB, New Relic, Kibana, Sela, Configuration Manager",
-                "Description": "Managed and delivered the 'POVO2.0' project for a digital telco-based company in Japan, achieving a legacy system replacement and onboarding 4 million users by the end of 2021.",
-                "Role": "Senior Lead Consultant",
-              
-    
-                "References": [
-                    "https://povo.jp/news/newsrelease/20220308_01/",
-                    "https://povo.jp"
-                ]
-            },
-            
-            {
-                "Name": "Rex (Prime Pro)",
-                "Technologies": "Android Java, iOS Swift, React Native, Expo-SDK, Node.js, MongoDB, NestJS, PostgreSQL, JavaScript, TypeScript, Event-driven architecture, Twilio, OneSignal, Twilio Conversations, Okta, Microservice architecture, MVVMC, Flux, Keycloak, Comet Chat, Expo Web, Kotlin, CocoaPod, EAS Builds, GitHub Actions, SonarCloud",
-                "Description": "An ecosystem developed for on-demand workers, simplifying order receiving and job tracking in one app, with real-time tracking of job progress.",
-                "Role": "Project planning, architecture setup, writing solution documents, design & implementation, leading the front-end team, and maintaining code quality."
-            },
-            {
-                "Name": "HCSL",
-                "Technologies": "React.js, C#, Node.js, .NET Core, MS SQL, JavaScript, TypeScript, Flux, MVVM, Kubernetes, AWS, Lambda, Redux",
-                "Description": "An audit management system delivered as a SaaS product for an EU client, aimed at modernizing their legacy system with a React.js SPA and enhanced features.",
-                "Role": "Associate Architect responsible for project planning, revamping architectures, design & implementation, and mentoring the front-end team."
-            },
-            {
-                "Name": "ACER",
-                "Technologies": "Angular Core, PrimeNG, Laravel, NgRx, Docker, Jest, Protractor, Angular 4+ architecture, Observables, AWS, Jasmine, TypeScript, JavaScript, Bootstrap, PHP",
-                "Description": "An e-learning product focusing on student reviews and papers, enhancing an existing product with the latest Angular updates and introducing reactive programming.",
-                "Role": "Lead role in introducing new technology trends, design thinking, solution building from scratch, and scalable solutions."
-            },
-            {
-                "Name": "Framework Swivel (Web & mobile)",
-                "Technologies": "React.js, Tailwind CSS, Redux, Redux Saga, React-Context API, Micro Front-end, Spring Boot, Microservice Architecture, Flux Architecture, Firebase, Pubs Sub, Socket.io, AWS Lambda, Firebase, Kotlin, Composer UI, Jetpack, Architecture components Android, Room, SQLite, MySQL, Dagger, Retrofit, Swift 4, Swift UI",
-                "Description": "An internal project established and architected for rapid onboarding of new projects, serving over 50 engineers across 6 teams for fast and flexible mobile and web app development.",
-                "Role": "Led a team of 12 Engineers, designed the project's architecture, and played a key role in its development and deployment."
-            },
-            {
-                "Name": "Qpoun (Web & Mobile)",
-                "Technologies": "Android, iOS, SWIFT, Kotlin, ComposerUI, Swivel-Framework, Spring Boot, Pubsub, Firebase",
-                "Description": "A platform developed for the Sri Lankan/International market to serve businesses and consumers with promotional goals and deals.",
-                "Role": "Took full ownership from idea to leading development, focusing on a platform for businesses and consumers."
-            },
-            {
-                "Name": "Tokoin",
-                "Technologies": "Kotlin, Android, Jetpack, Firebase, AWS, Spring Boot, Kafka, Swift, Swift UI, MySQL, Microservice Architecture, MVVM, MVVMC, Blockchain",
-                "Description": "A crypto-based platform for an Indonesian client, focusing on mobile solutions for Android and iOS.",
-                "Role": "Lead mobile engineer, responsible for planning, design, architecture, and development."
-            },
-            {
-                "Name": "On-the Go (Web & Mobile)",
-                "Technologies": "React-native, Redux, Redux-thunk, Node.js, Express.js, Expo-client, AWS, MYSQL, React.js, Jenkins, Microsoft App Center, Netlify, Netlify-functions",
-                "Description": "A coffee ordering app in New Zealand, developed in collaboration with the On-the-go team to expand and improve their tech horizons.",
-                "Role": "Involved in deployment, development, and re-architecting the front-end and mobile application."
-            },
-            {
-                "Name": "Dulux (Web & SSR)",
-                "Technologies": "Next.js, SSR, React.js, GraphQL, Shopify, Netlify, Netlify-functions, Node.js, PHP Laravel",
-                "Description": "An e-commerce application for Dulux in the Asian region, focusing on creating and managing the Dulux color-shop.",
-                "Role": "Tech lead for teams, developing Shopify integrated SSR applications and managing major product features."
-            },
-            {
-                "Name": "KDDI",
-                "Technologies": "React, Ruby on Rails, JavaScript, TypeScript, AWS, Kafka, CDD, Webpack, Jenkins, Golang, Microservice Architecture, MySQL, Quilt, MongoDB, New Relic, Kibana, Sela, Configuration Manager",
-                "Description": "Managed KDDI project to deliver 'POVO2.0', achieving a milestone of 4 million users by replacing a legacy system, overcoming challenges in learning the entire system and interfacing with Circle Life.",
-                "Role": "Senior Lead Consultant"
-            },
-            {
-                "Name": "Circles life Country Launch",
-                "Technologies": "React, Kotlin, Android, Swift, Bitrise, Java, Jenkins, Sela, Kibana, Firebase, New Relic, JavaScript, TypeScript, Golang, Ruby, MySQL, Mongoose, MongoDB, Branch, Jetpack, Kafka, Trunk-based programming, Docker, AWS, MVVM, MVVMC, Adapter Pattern, Server Driven UI, Dagger, Clever Tap",
-                "Description": "Initiated after KDDI launch, aimed to enable new countries with minimal changes. Created a generic platform for digitalizing telco domain operations in a customizable way.",
-                "Role": "Senior Lead Consultant"
-            },
-            {
-                "Name": "Roar-Media",
-                "Technologies": "React-native, Apollo client, Redux, Firebase, Azure Devops, Node.js, React, Digital Ocean, MongoDB, Twilio",
-                "Description": "Developed digital content platform for Roar Media, enhancing content delivery and platform scalability.",
-                "Role": "Tech Lead (Mobile)"
-            },
-            {
-                "Name": "Roar-Den",
-                "Technologies": "React, Sass, HTML, CSS, Node.js, MongoDB",
-                "Description": "Focused on automating internal processes at 'Roar Global', managing a diverse set of skilled practices within one platform.",
-                "Role": "Project Lead"
-            },
-            {
-                "Name": "EZCash Customer",
-                "Technologies": "React-native, Android, Objective-C, Spring Boot, MySQL, Crashlytics, Firebase, Azure, JSX, CEFT, Just-Pay, Redux, Redux-Sagas",
-                "Description": "Developed a mobile wallet for 'Dialog Axiata PLC', facilitating cash transfers and integrating 'JUST PAY'.",
-                "Role": "Project Lead"
-            },
-            {
-                "Name": "My Budget",
-                "Technologies": "Java, MySQL, .NET, Kafka, Angular 6, Protractor, Salesforce Events, NGRX, AWS Services",
-                "Description": "Developed a web application for budget management, featuring an event-driven architecture.",
-                "Role": "Associate Tech Lead (Mobile)"
-            },
-            {
-                "Name": "Up-flex",
-                "Technologies": "Java, React-native, Swift, Android, Socket.io, Oracle, AWS, React JS",
-                "Description": "Developed a workspace booking application, integrating real-time data updates to resolve booking conflicts.",
-                "Role": "Developer"
-            },
-            {
-                "Name": "Shop Flow",
-                "Technologies": "React, Node.js, Stripe, Docker, Google Cloud",
-                "Description": "Developed a web application for a Garage Automation Platform, incorporating Stripe for payment processing.",
-                "Role": "Project Lead"
-            },
-            {
-                "Name": "Digi Loan",
-                "Technologies": "React, React-native, Android, Objective-C, Redux, Sagas, Azure DevOps, Node.js, JSX, MySQL, Sass, CSS, Webpack",
-                "Description": "Delivered a digital banking platform for 'LOLC', consisting of mobile apps and a web application, tightly coupled with a data model architecture.",
-                "Role": "Project Lead"
-            },
-          
-            {
-                "Name": "Circles Life Country Launch",
-                "Technologies": "React, Kotlin, Android, Swift, Bitrise, Java, Jenkins, Sela, Kibana, Firebase, New Relic, JS, TS, Go lang, Ruby, MySQL, Mongoose, MongoDB, Branch, Jetpack, Kafka, Trunkbased Programming, Docker, AWS, MVVM, MVVMC, Adapter Pattern, Server Driven UI, Dagger, Clever Tap",
-                "Description": "Enabled new country launches by replicating KDDI solutions with minimal changes, creating a generic platform to digitalize the telco domain operations.",
-                "Role": "Senior Lead Consultant",
-                "References": []
-            },
-         
-            {
-                "Name": "Alhassan Mosque",
-                "Technologies": "React-native, Redux, Azure DevOps, Node.js, MySQL, Digital Ocean",
-                "Description": "Built an application for mosque recognition and to keep the Muslim community updated with religious activities and events.",
-                "Role": "Tech Lead (Mobile)",
-                "References": []
-            },
-        
-            {
-                "Name": "My Budget",
-                "Technologies": "Java, MySQL, .Net, Kafka, Angular 6, Protractor, Salesforce events, NGRX, NGRX Entities, NGRX semantics, Angular 6 reactive forms, Aws services",
-                "Description": "Developed a web application for budget management using Angular 6 and Spring Boot, based on an event-driven architecture.",
-                "Role": "Associate Tech Lead (Mobile)",
-                "References": []
-            },
-       
-            {
-                "Name": "Shop Flow",
-                "Technologies": "React, Node.js, Stripe, Docker, Google Cloud",
-                "Description": "Created a web application for garage automation, incorporating a client automation system with Stripe for payment subscriptions.",
-                "Role": "Associate Tech Lead (Mobile)",
-                "References": [
-                    "https://www.shopflow.com/"
-                ]
-            },
-            {
-                "Name": "Digi Loan",
-                "Technologies": "React, React-native, Android, Objective-C, Redux, Sagas, Azure DevOps, Node.js, JSX, MySQL, Sass, CSS, Webpack",
-                "Description": "Delivered a digital banking platform for 'LOLC', consisting of mobile apps and a web application, tightly coupled with a data model architecture.",
-                "Role": "Project Lead",
-                "References": []
-            },
-            {
-                "Name": "Blue Squirrel",
-                "Technologies": "Java, MySQL, .Net, React-native, Jenkins, Code Push, OAuth 2.0, Jest, Detox, Selenium, Identity Server, Redux, Git",
-                "Description": "Developed a Bucket List Hybrid application for financial service in Australia, focusing on community goals and dreams sharing.",
-                "Role": "Associate Software Engineer",
-                "References": [
-                    "https://itunes.apple.com/au/app/squirrel-bucket-listgoalsplanner/id1180864380?mt=8",
-                    "https://play.google.com/store/apps/details?id=com.bluesquirrel&hl=en"
-                ]
-            },
-            {
-                "Name": "Christie Spaces",
-                "Technologies": "Java, MySQL, Git, Hibernate, React-native, Jenkins, Code Push, OAuth 2.0, Jest, Enzyme, Detox, Selenium, Identity Server, Redux, Angular JS 2",
-                "Description": "Implemented a co-working space application, showcasing business freedom through architect-designed workspaces.",
-                "Role": "Software Engineer",
-                "References": [
-                    "https://itunes.apple.com/lk/app/christie-spaces/id1277880155?mt=8",
-                    "https://play.google.com/store/apps/details?id=com.christiecowork&hl=en"
-                ]
-            }
-        
     ]
 }
